@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="DisneyChannel" group-title="Kids", Disney Channel
+http://learninglogic.000webhostapp.com/disney.php
+#EXTINF:-1 tvg-ID="DisneyJunior" group-title="Kids", Disney Junior
+http://learninglogic.000webhostapp.com/disneyj.php
+#EXTINF:-1 tvg-ID="Dreamworks" group-title="Kids", Dreamworks
+http://learninglogic.000webhostapp.com/dreamworks.php
+#EXTINF:-1 tvg-ID="Boomerang" group-title="Kids", Boomerang
+http://learninglogic.000webhostapp.com/boomerang.php
+#EXTINF:-1 tvg-ID="CartoonNetwork" group-title="Kids", Cartoon Network
+http://learninglogic.000webhostapp.com/cn.php
+#EXTINF:-1 tvg-ID="Nickelodeon" group-title="Kids", Nickelodeon
+http://learninglogic.000webhostapp.com/nick.php
+#EXTINF:-1 tvg-ID="NickelodeonJr" group-title="Kids"", Nick Jr
+http://learninglogic.000webhostapp.com/nickj.php
+#EXTINF:-1 tvg-ID="WarnerTV" group-title="Kids"", Warner TV
+http://learninglogic.000webhostapp.com/warnertv.php
+#EXTINF:-1 tvg-ID="BabyTV" group-title="Kids", BabyTV
+http://learninglogic.000webhostapp.com/babytv.php
+#EXTINF:-1 tvg-ID="besmart" group-title="Kids", BeSmart
+http://learninglogic.000webhostapp.com/besmart.php
+#EXTINF:-1 tvg-ID="ZooMoo TV" group-title="Kids", Zoomoo
+http://learninglogic.000webhostapp.com/zoomoo.php
+#EXTINF:-1 tvg-ID="Channel[V]" group-title="Music", Channel V. Int
+http://learninglogic.000webhostapp.com/v.php
+#EXTINF:-1 tvg-ID="MTVLive.nl" group-title="Music", MTV Live HD
+http://learninglogic.000webhostapp.com/mtv.php
+#EXTINF:-1 tvg-ID="EKonser.id" group-title="Music", E-Konser
+http://learninglogic.000webhostapp.com/ekonser.php
+#EXTINF:-1 tvg-ID="LoveNature.uk" group-title="Knowledge", Love Nature
+http://learninglogic.000webhostapp.com/lovenature.php
+#EXTINF:-1 tvg-ID="HistoryChannel.id" group-title="Knowledge", History
+http://learninglogic.000webhostapp.com/history.php
+#EXTINF:-1 tvg-ID="HGTV" group-title="Knowledge", HGTV
+http://learninglogic.000webhostapp.com/hgtv.php
+#EXTINF:-1 tvg-ID="AsianFoodChannel" group-title="Knowledge", AFC
+http://learninglogic.000webhostapp.com/afc.php
+#EXTINF:-1 tvg-ID="TLC" group-title="Knowledge", TLC
+http://learninglogic.000webhostapp.com/tlc.php
+#EXTINF:-1 tvg-ID="BBCEarth" group-title="News", BBC Earth
+http://learninglogic.000webhostapp.com/be.php
+#EXTINF:-1 tvg-ID="BBC Lifestyle" group-title="News", BBC Lifestyle
+http://learninglogic.000webhostapp.com/bl.php
+#EXTINF:-1 tvg-ID="AnimalPlanet" group-title="Knowledge", Animal Planet
+http://learninglogic.000webhostapp.com/ap.php
+#EXTINF:-1 tvg-ID="DiscoveryChannel" group-title="Knowledge", Discovery Channel
+http://learninglogic.000webhostapp.com/dc.php
+#EXTINF:-1 tvg-ID="Discovery Asia" group-title="Knowledge", Discovery Asia
+http://learninglogic.000webhostapp.com/da.php
+#EXTINF:-1 tvg-ID="NationalGeographicChannel" group-title="Knowledge", National Geographic
+http://learninglogic.000webhostapp.com/ng.php
+#EXTINF:-1 tvg-ID="NationalGeographicPeople" group-title="Knowledge", Nat Geo People
+http://learninglogic.000webhostapp.com/ngp.php
+#EXTINF:-1 tvg-ID="NationalGeographicWild" group-title="Knowledge", Nat Geo Wild
+http://learninglogic.000webhostapp.com/ngw.php
+#EXTINF:-1 tvg-ID="FOX" group-title="Entertainment", FOX
+http://learninglogic.000webhostapp.com/fox.php
+#EXTINF:-1 tvg-ID="FOXCrime" group-title="Entertainment", FOX Crime
+http://learninglogic.000webhostapp.com/fc.php
+#EXTINF:-1 tvg-ID="FoxLife" group-title="Entertainment", FOX Life
+http://learninglogic.000webhostapp.com/fl.php
+#EXTINF:-1 tvg-ID="FOXMoviesPremiumHD" group-title="Movies", FOX Movies Premium
+http://learninglogic.000webhostapp.com/fmp.php
+#EXTINF:-1 tvg-ID="FOXActionMoviesHD" group-title="Movies", FOX Action Movies
+http://learninglogic.000webhostapp.com/fam.php
+#EXTINF:-1 tvg-ID="FOXFamilyMoviesHD" group-title="Movies", FOX Family Movies (ENG)
+http://learninglogic.000webhostapp.com/ffm.php
+#EXTINF:-1 tvg-ID="FOXFamilyMoviesHD" group-title="Movies", FOX Family Movies (IDN)
+https://delivery.macan.live/stream/foxfamilymovies_idn/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="HBOHD" group-title="Movies", HBO
+https://delivery.macan.live/stream/hbo/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="HBOFamilyHD" group-title="Movies", HBO Family
+https://delivery.macan.live/stream/hbo_family/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="HBOHitsHD" group-title="Movies", HBO Hits
+https://delivery.macan.live/stream/hbo_hits/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="HBOSignatureHD" group-title="Movies", HBO Signature
+https://delivery.macan.live/stream/hbo_signature/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="RED" group-title="Movies", RED by HBO
+https://delivery.macan.live/stream/redhbo/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="CINEMAX" group-title="Movies"", Cinemax by HBO
+https://delivery.macan.live/stream/cinemax/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="CrimeInvestigation" group-title="Entertainment", Crime Investigation
+https://delivery.macan.live/stream/crimeinvestigation/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Flik" group-title="Entertainment", Flik
+https://delivery.macan.live/stream/flik/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Thrill" group-title="Movies", Thrill
+https://delivery.macan.live/stream/thrill/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Hits" group-title="Entertainment", HITS
+https://delivery.macan.live/stream/hits/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="HITSMovies" group-title="Entertainment", HITS Movies
+https://delivery.macan.live/stream/hits_movies/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="SonyOneHD" group-title="Korea", Sony One
+https://delivery.macan.live/stream/sonyone/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Arirang" group-title="Korea", Arirang
+https://delivery.macan.live/stream/arirang/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="TVN" group-title="Korea", tvN
+https://delivery.macan.live/stream/id_tvn/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="TVNMovies" group-title="Korea", tvN Movies
+https://delivery.macan.live/stream/tvn_movies/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="KBS World" group-title="Korea", KBS World
+https://delivery.macan.live/stream/kbs_world/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="KPlus.id" group-title="Korea", K+
+https://delivery.macan.live/stream/kplus/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Animax" group-title="Japan", Animax
+https://delivery.macan.live/stream/id_animax/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Aniplus.id" group-title="Japan", Aniplus
+https://delivery.macan.live/stream/id_aniplus/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="WAKUWAKUJAPAN" group-title="Japan", Waku Waku Japan
+https://delivery.macan.live/stream/wakuwaku/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="GEMChannel.id" group-title="Japan", Sony GEM TV
+https://delivery.macan.live/stream/id_gem/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="KIX" group-title="Movies", KIX
+https://delivery.macan.live/stream/kix/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="CelestialMovies" group-title="Chinese", Celestial Movies
+https://delivery.macan.live/stream/cm/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="CCM" group-title="Chinese", Celestial Classic Movies
+https://delivery.macan.live/stream/ccm/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="SCM" group-title="Chinese", Star Chinese Movies
+https://delivery.macan.live/stream/id_scm/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Zee" group-title="India", ZEE Bioskop
+https://delivery.macan.live/stream/zeebioskop/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="TV1.my" group-title="Malaysia", tv1
+https://delivery.macan.live/stream/tv1/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="TV2.my" group-title="Malaysia", tv2
+https://delivery.macan.live/stream/tv2/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="TV3.my" group-title="Malaysia", tv3
+https://delivery.macan.live/stream/tv3/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="AstroAwani.my" group-title="Malaysia", Astro Awani
+https://delivery.macan.live/stream/astro_awani/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="AstroCeria.my" group-title="Malaysia", Astro Ceria
+https://delivery.macan.live/stream/astro_ceria/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="AstroOasis.my" group-title="Malaysia", Astro Oasis
+https://delivery.macan.live/stream/astro_oasis/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="AstroPrima.my" group-title="Malaysia", Astro Prima
+https://delivery.macan.live/stream/astro_prima/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="AstroRia.my" group-title="Malaysia", Astro Ria
+https://delivery.macan.live/stream/astro_ria/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="NBC Golf" group-title="Sports", NBC Golf
+https://delivery.macan.live/stream/nbc_golf/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="FOXSportsHD" group-title="Sports", FOX Sport 1
+https://delivery.macan.live/stream/id_foxsport1/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="FOXSports2" group-title="Sports", FOX Sport 2
+https://delivery.macan.live/stream/id_foxsport2/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="FOXSports3" group-title="Sports", FOX Sport 3
+https://delivery.macan.live/stream/id_foxsport3/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="FightSports" group-title="Sports", Fight Sport
+https://delivery.macan.live/stream/fightsport/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="beINSports1" group-title="Sports", beIN Sports 1 ID
+https://delivery.macan.live/stream/macan_sport_1/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="beINSports2" group-title="Sports", beIN Sports 2 ID
+https://delivery.macan.live/stream/macan_sport_2/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="UseeSports.id" group-title="Sports", Useesports 1
+https://delivery.macan.live/stream/macan_sport_3/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="UseeSports.id" group-title="Sports", Useesports 2
+https://delivery.macan.live/stream/macan_sport_4/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Champions1" group-title="Sports", Champions 1 TV
+https://delivery.macan.live/stream/macan_sport_5/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Champions2" group-title="Sports"", Champions 2 TV
+https://delivery.macan.live/stream/macan_sport_6/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="NBATV.id" group-title="Sports", NBA TV
+https://delivery.macan.live/stream/nbatv/playlist.m3u8?token=XN7oj&v=20200308
+#EXTINF:-1 tvg-ID="Arena.id" group-title="Sports", Astro Arena
+https://delivery.macan.live/stream/arena/playlist.m3u8?token=XN7oj&v=20200308
